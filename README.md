@@ -92,7 +92,7 @@ BFS is suitable for this project because the maze is an unweighted grid, and BFS
 
 1. Clone the repository:
 
-`git clone https://github.com/27nsg6x892-afk/maze-game-bfs-pathfinding.git`
+`git clone https://github.com/27nsg6x892-afk/ai-maze-game-bfs.git`
 
 2. Install the required package:
 
